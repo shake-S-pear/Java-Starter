@@ -1,4 +1,4 @@
-package Lesson9;
+package JavaStarterLesson9;
 
 public class Arrays {
 
